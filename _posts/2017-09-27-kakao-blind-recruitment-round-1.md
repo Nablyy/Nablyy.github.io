@@ -3,7 +3,7 @@ layout: post
 title: '테스트'
 author: nablyy
 date: 2017-09-27 13:00
-tags: [kakao, recruitment]
+tags: [elasticsearch]
 image: /files/covers/employment_cover.png
 ---
 
