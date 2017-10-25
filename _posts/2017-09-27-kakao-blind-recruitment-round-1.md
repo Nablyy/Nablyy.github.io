@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '카카오 신입 공채 1차 코딩 테스트 문제 해설'
-author: kaon.park
+title: '테스트'
+author: nablyy
 date: 2017-09-27 13:00
 tags: [kakao, recruitment]
 image: /files/covers/employment_cover.png
